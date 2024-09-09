@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 <h1 align="center">Hey there, I'm Rahul Chowdhury 👋</h1>
 
