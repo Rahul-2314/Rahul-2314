@@ -3,7 +3,7 @@
 ## <h1 align="center">Hey there, I'm Rahul Chowdhury 👋</h1>
 
 <p align="center">
-<img src="" />
+<img src="https://github.com/Rahul-2314/Rahul-2314/blob/main/background.jpeg" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
