@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hey there, I'm Marius 👋</h1>
+<h1 align="center">Hey there, I'm Rahul Chowdhury 👋</h1>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MariusBongarts&label=Profile+Views" />
@@ -15,7 +15,7 @@
 - 📝 4k+ followers on Medium --> Check out my blog <code><a href="https://medium.com/@mariusbongarts" target="_blank" title="LinkedIn Profile"><img width="22" src="https://play-lh.googleusercontent.com/hB9t3Z-mi284_49HA3nAuhO-W5Cyhje7r2P9McdgORoVCd-0SV54c12NMQWLHnqALw"> Marius Bongarts on Medium</a></code>
 
 
-- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/marius-bongarts-6b3638171/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code><a href="https://twitter.com/MariusBongarts" target="_blank" title="Twitter Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter</a></code>
+- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/rahul-chowdhury-45b61828b/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code><a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter</a></code>
 
 
 - ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
