@@ -1,14 +1,14 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-<h1 align="center">Hey there, I'm Rahul Chowdhury 👋</h1>
+## <h1 align="center">Hey there, I'm Rahul Chowdhury 👋</h1>
 
 <p align="center">
-<img src="https://github.com/Rahul-2314/Rahul-2314/blob/main/background-scenery-anime-generative-ai_100456-18210.jpg" />
+<img src="" />
 </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-- 💼 Computer Science Engineering Student.
+- 💼 Computer Science Engineering Student at UEM Jaipur.
 
 - 👨‍💻 Building many fun and Interesting Projects connect with me for details.
 
