@@ -8,11 +8,17 @@
 
 - 💼 Computer Science Engineering Student at UEM Jaipur.
 
-- 👨‍💻 Building many fun and Interesting Projects connect with me for details.
+- 👨‍💻 Building many fun and Interesting Projects, connect with me for details.
 
 - 🧑‍💻🥷 **Ninja Dominator** @ code360 by CodingNinjas
 
-- 📫 Let's connect! --> <code><a href="https://www.linkedin.com/in/rahul-chowdhury-45b61828b/" target="_blank" title="LinkedIn Profile"><img alt="LinkedIn Logo" width="22" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn</a></code> <code><a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile"><img alt="Twitter Logo" width="22" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter</a></code>
-
+- 📫 Let's connect! --> 
+  <a href="https://www.linkedin.com/in/rahul-chowdhury-45b61828b/" target="_blank" title="LinkedIn Profile" style="text-decoration:none;">
+    <img alt="LinkedIn" width="20" align="center" style="margin-bottom: -4px;" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile" style="text-decoration:none;">
+    <img alt="Twitter" width="20" align="center" style="margin-bottom: -4px;" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter
+  </a>
 
 - ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
