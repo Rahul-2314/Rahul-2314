@@ -14,7 +14,7 @@
 
 - 📫 Let's connect! --> 
   <a href="https://www.linkedin.com/in/rahul-chowdhury-45b61828b/" target="_blank" title="LinkedIn Profile" style="text-decoration:none;">
-     <img src="linkedin_logo.gif" width="20" align="center" style="mix-blend-mode: multiply;" alt="Linkedin">
+     <img src="linkedin_logo.gif" width="25" align="center" style="mix-blend-mode: multiply;" alt="Linkedin">
   </a> 
   &nbsp;&nbsp;
   <a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile" style="text-decoration:none;">
