@@ -18,7 +18,7 @@
   </a> 
   &nbsp;&nbsp;
   <a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile" style="text-decoration:none;">
-    <img alt="Twitter" width="20" align="center" style="margin-bottom: -4px;" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter
+    <img src="x_logo.gif" width="25" align="center" style="mix-blend-mode: multiply;" alt="X">
   </a>
 
 - ⚡ Fun fact: You know in JS what `typeof NaN` returns? Try it out!
