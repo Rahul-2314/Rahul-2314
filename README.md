@@ -17,11 +17,11 @@
 
 - 📫 Let's connect! --> 
   <a href="https://www.linkedin.com/in/rahul-chowdhury-45b61828b/" target="_blank" title="LinkedIn Profile" style="text-decoration:none;">
-    <img alt="LinkedIn" width="20" align="center" style="margin-bottom: -4px;" src="https://seeklogo.com/images/L/linkedin-icon-logo-FBADE03110-seeklogo.com.png"> LinkedIn
+    <i class="fa-brands fa-linkedin fa-bounce"></i> LinkedIn
   </a> 
   &nbsp;&nbsp;
   <a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile" style="text-decoration:none;">
     <img alt="Twitter" width="20" align="center" style="margin-bottom: -4px;" src="https://seeklogo.com/images/T/twitter-2012-positive-logo-916EDF1309-seeklogo.com.png"> Twitter
   </a>
 
-- ⚡ Fun fact: You know what `typeof NaN` returns? Try it out!
+- ⚡ Fun fact: You know in JS what `typeof NaN` returns? Try it out!
