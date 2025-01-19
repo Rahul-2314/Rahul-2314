@@ -1,5 +1,8 @@
 <h1 align="center">Hey there, I'm Rahul Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-
+<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+		/>
 <p align="center">
 <img src="https://github.com/Rahul-2314/Rahul-2314/blob/main/background.jpeg" />
 </p>
