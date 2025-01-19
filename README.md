@@ -1,8 +1,5 @@
 <h1 align="center">Hey there, I'm Rahul Chowdhury <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
-<link
-			rel="stylesheet"
-			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-		/>
+
 <p align="center">
 <img src="https://github.com/Rahul-2314/Rahul-2314/blob/main/background.jpeg" />
 </p>
@@ -17,7 +14,7 @@
 
 - 📫 Let's connect! --> 
   <a href="https://www.linkedin.com/in/rahul-chowdhury-45b61828b/" target="_blank" title="LinkedIn Profile" style="text-decoration:none;">
-    <i class="fa-brands fa-linkedin fa-bounce"></i> LinkedIn
+    <a target="_blank" href="https://icons8.com/icon/108812/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> LinkedIn
   </a> 
   &nbsp;&nbsp;
   <a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile" style="text-decoration:none;">
