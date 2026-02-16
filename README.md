@@ -17,7 +17,7 @@
      <img src="linkedin_logo.gif" width="25" align="center" style="mix-blend-mode: multiply;" alt="Linkedin">
   </a> 
   &nbsp;&nbsp;
-  <a href="https://x.com/Rahulch65183722" target="_blank" title="Twitter Profile" style="text-decoration:none;">
+  <a href="https://x.com/rahul_x14" target="_blank" title="Twitter Profile" style="text-decoration:none;">
     <img src="x_logo.png" width="30" align="center" style="mix-blend-mode: multiply;" alt="X">
   </a>
 
